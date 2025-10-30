@@ -32,7 +32,7 @@ När blockhashen är känd görs följande steg (alla kan själva göra samma be
 
 1. Beräkna SHA256-hash av blockhashen. (Med t.ex https://emn178.github.io/online-tools/sha256.html)
 
-2. Gör om resultatet till ett stort tal. (Med t.ex https://www.rapidtables.com/convert/number/hex-to-decimal.html)
+2. Gör om resultatet till ett stort tal (ENDAST DE 8 SISTA HEXADECIMALTECKNENA KOMMER ANVÄNDAS DÅ TALET ANNARS BLIR FÖR STORT). (Med t.ex https://www.rapidtables.com/convert/number/hex-to-decimal.html)
 
 3. Dividera talet med 178 och ta resten:
    vinnarnummer = (tal % 178)

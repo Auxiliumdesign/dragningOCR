@@ -239,3 +239,22 @@ Nedan följer namnen på deltagarna
 175	Victor Joh
 176	Vilhelm Dic
 177	Willy For
+
+
+Resultat!
+
+Block hash från block utvunnet 20:01:36 UTC https://blockexplorer.one/bitcoin/mainnet/blockHash/0000000000000000000119124678c7031b6aeb77467991a8d92b97b943c38bbe
+0000000000000000000119124678c7031b6aeb77467991a8d92b97b943c38bbe
+
+SHA256 av 0000000000000000000119124678c7031b6aeb77467991a8d92b97b943c38bbe ger
+4ce1746cb97f83075523a292c6eb5e9f629e7876d1b3a04e7e3387b96d6b854b
+
+8 sista hexadecimaltecknena
+6d6b854b
+
+Hex to Dec ger
+1835763019
+
+1835763019 % 178 ger 69.
+
+Vinnare är Johan Lil
